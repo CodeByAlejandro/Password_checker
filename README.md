@@ -4,7 +4,7 @@ Created python password checker that uses https://haveibeenpwned.com/. It accept
 # Installation
 Install in virtual environment using following commands:
 ```shell
-git clone https://github.com/CodeByAlejandro/Portfolio.git
+git clone https://github.com/CodeByAlejandro/Password_checker.git
 cd Password_checker
 python3 -m venv .venv
 . .venv/bin/activate
